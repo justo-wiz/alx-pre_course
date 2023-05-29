@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "School"
-__EOF_
+echo "The school is open!"
+
 
