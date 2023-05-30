@@ -1,2 +1,2 @@
-My first readme is amazing
+my first repo
 
